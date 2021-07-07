@@ -1,8 +1,12 @@
 # fileCend
 
-Transfers files between two computers. One computer must run the server file and the other the client file.
+Transfers files between two Linux computers. One computer must run the server file and the other the client file.
 
 To transfer files across two computers in the same network (e.g. home) or across two folders in the same computer, run each file in a different computer/folder. To transfer files across the internet (around the world), the router must be configured appropriately, but comes with a security risk.
+
+Target OS: Linux (tested on Ubuntu 20.10)
+
+Note: The executable files are in the `bin` directory, but if you wish to compile the program yourself using the source files then you may refer to the instructions below.
 
 ## Compilation
 
